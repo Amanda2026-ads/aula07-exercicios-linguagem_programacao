@@ -1,3 +1,4 @@
+//exercicio 1
 import fs from "fs/promises";
 
 //adiciona uma linha com timestamp a app.log
